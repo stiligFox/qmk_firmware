@@ -49,6 +49,5 @@ uint32_t layer_state_set_kb(uint32_t state) {
         PORTC &= ~(1<<7);
     }
 
-
     return state;
 }

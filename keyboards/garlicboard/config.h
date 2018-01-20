@@ -9,7 +9,7 @@
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    Tom Meyer
 #define PRODUCT         GarlicBoard
-#define DESCRIPTION     GarlicBoard
+#define DESCRIPTION     A different sort of keyboard
 
 /* key matrix size */
 #define MATRIX_ROWS 4
