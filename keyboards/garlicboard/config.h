@@ -46,6 +46,8 @@
 /* prevent stuck modifiers */
 #define PREVENT_STUCK_MODIFIERS
 
+#define TAPPING_TOGGLE 1
+
 
 #ifdef RGB_DI_PIN
 #define RGBLIGHT_ANIMATIONS
